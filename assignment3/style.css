@@ -1,0 +1,31 @@
+#loader_align
+{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 150px;
+    height: 150px;
+}
+.abc
+{
+    background-image: url('images/staticmap.png');
+    height: 400px;
+}
+#textshadowit
+{
+    text-shadow: 2px 2px 8px #FF0000;
+}
+.shadowit
+{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+body{
+    font-family: Comic Sans MS body;
+}
+.zoom:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.1); 
+}
