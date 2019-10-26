@@ -1,5 +1,5 @@
 I tried to make a blog website I found on internet.
-I have created this template with the help of BOOTSTRAP4 and have also included AOS- library for certain effects like fadeit,fadeout and so on...
+I have created this template with the help of BOOTSTRAP4 and have also included AOS- library for certain effects like fadeit,fadeout and so on....
 
 Key Features:-
 -> made with BOOTSTRAP
